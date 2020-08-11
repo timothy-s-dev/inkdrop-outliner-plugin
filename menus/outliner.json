@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Outliner",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "outliner:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

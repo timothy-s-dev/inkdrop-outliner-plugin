@@ -1,0 +1,27 @@
+.outliner-pane {
+  padding: 1rem;
+  min-width: var(--inkdrop-outliner-width);
+  max-width: var(--inkdrop-outliner-width);
+  overflow-y: auto;
+
+  ul {
+    margin: 0;
+    padding-left: 0.5em;
+  }
+  li {
+    padding-left: 10px;
+    list-style: none;
+    a {
+      width: 100%;
+      display: block;
+      overflow-x: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      cursor: pointer;
+    }
+  }
+}
+
+.outliner-pane-hide {
+  display: none;
+}
