@@ -5,7 +5,7 @@
   "description": "Adds an outliner to Inkdrop",
   "repository": "https://github.com/timothy-s-dev/inkdrop-outliner-plugin",
   "keywords": [],
-  "license": "MIT",
+  "license": "GPL3",
   "engines": {
     "inkdrop": "^4.x"
   },
