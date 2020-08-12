@@ -1,7 +1,7 @@
 {
   "name": "outliner",
   "main": "./lib/outliner",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Adds an outliner to Inkdrop",
   "repository": "https://github.com/timothy-s-dev/inkdrop-outliner-plugin",
   "keywords": [],
